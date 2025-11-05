@@ -1,5 +1,3 @@
-# CargoQuote
-Cotizador para carga aérea y marítima de Cargosud
 import React, { useState, useEffect, useRef } from 'react';
 import {
   Ship,
